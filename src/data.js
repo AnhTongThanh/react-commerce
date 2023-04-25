@@ -2,22 +2,22 @@ export const sliderItems = [
     {
       id: 1,
       img: "https://imgs.search.brave.com/fAHuPiy0BhUGnpERrr6ZpWmgeoO6m078ySuOGcXhINU/rs:fit:640:384:1/g:ce/aHR0cHM6Ly9jYWZl/Yml6LmNhZmViaXpj/ZG4udm4vdGh1bWJf/dy82NDAvMjAxOC82/LzI3L3Jhd3BpeGVs/LTU2MTQxNS11bnNw/bGFzaC0xNTMwMDYy/MjYxMzAxMTQwOTMz/MjE0Mi5qcGc",
-      title: "Books Sale",
-      desc: "In response to the reading festival, 30% off all books...!",
+      title: "SUMMER SALE",
+      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "f5fafd",
     },
     {
       id: 2,
       img: "https://imgs.search.brave.com/fAHuPiy0BhUGnpERrr6ZpWmgeoO6m078ySuOGcXhINU/rs:fit:640:384:1/g:ce/aHR0cHM6Ly9jYWZl/Yml6LmNhZmViaXpj/ZG4udm4vdGh1bWJf/dy82NDAvMjAxOC82/LzI3L3Jhd3BpeGVs/LTU2MTQxNS11bnNw/bGFzaC0xNTMwMDYy/MjYxMzAxMTQwOTMz/MjE0Mi5qcGc",
-      title: "Books Sale",
-      desc: "In response to the reading festival, 30% off all books...!",
+      title: "AUTUMN COLLECTION",
+      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fcf1ed",
     },
     {
       id: 3,
       img: "https://imgs.search.brave.com/fAHuPiy0BhUGnpERrr6ZpWmgeoO6m078ySuOGcXhINU/rs:fit:640:384:1/g:ce/aHR0cHM6Ly9jYWZl/Yml6LmNhZmViaXpj/ZG4udm4vdGh1bWJf/dy82NDAvMjAxOC82/LzI3L3Jhd3BpeGVs/LTU2MTQxNS11bnNw/bGFzaC0xNTMwMDYy/MjYxMzAxMTQwOTMz/MjE0Mi5qcGc",
-      title: "Books Sale",
-      desc: "In response to the reading festival, 30% off all books...!",
+      title: "LOUNGEWEAR LOVE",
+      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
       bg: "fbf0f4",
     },
   ];
@@ -25,18 +25,18 @@ export const sliderItems = [
   export const categories = [
     {
       id: 1,
-      img: "https://salt.tikicdn.com/cache/750x750/ts/product/1c/8d/e9/0aab218aa4dfb7ea95843d418a6fc4d0.jpg.webp",
-      title: "SKYBOOKS",
+      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      title: "SHIRT STYLE!",
     },
     {
       id: 2,
-      img: "https://salt.tikicdn.com/cache/750x750/ts/product/6c/91/df/7029222c4ecd82b92656e962df297841.jpg.webp",
-      title: "SKYBOOKS",
+      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      title: "SHIRT STYLE!",
     },
     {
       id: 3,
-      img: "https://salt.tikicdn.com/cache/750x750/ts/product/c3/09/3a/cb9dcec911333cb41d1dab6524464e47.png.webp",
-      title: "SKYBOOKS",
+      img: "https://images.pexels.com/photos/5480696/pexels-photo-5480696.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      title: "SHIRT STYLE!",
     },
   ];
 
@@ -47,15 +47,15 @@ export const sliderItems = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
     },
     {
       id:3,
-      img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
     },
     {
       id:5,
@@ -67,10 +67,10 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
     },
     {
       id:8,
-      img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
     },
   ]
